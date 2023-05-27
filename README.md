@@ -43,6 +43,9 @@ Based on the dashboard analysis:
 - To incoperate type of vaccines and the cost of each vaccine type used in each country and continents.
 
 
+Please click [here](https://www.linkedin.com/in/hongkahfoo/) for my LinkedIn profile and info.
+
+
 
 
 
