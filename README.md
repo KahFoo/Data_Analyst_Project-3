@@ -25,7 +25,7 @@ Based on the dashboard analysis:
 
 -Globally, almost 70% of the population has been vaccinated (received at least one dose of a COVID-19 vaccine), while 64% are fully vaccinated (received at least one dose of a COVID-19 vaccine). The remains 30% are yet to receive any vaccination. This indeed still far from the 95% vaccination rate needed to achieve herd immunity. 
 
-- By continent, africa continent has the lowest vaccination rate, standing around 38% of which have received at least one dose. 
+-By continent, africa continent has the lowest vaccination rate, standing around 38% of which have received at least one dose. 
 
 -Countries with a lower GDP continue to lag in vaccination rates when compared to wealthier country or continents. This  does indicates that a higher GDP per capita is associated with greater COVID-19 vaccine distribution.
 
@@ -33,7 +33,7 @@ Based on the dashboard analysis:
 
 ## Conclusions:
 
-- Countries with higher GDPs should extend their assistance to those with lower GDPs in advancing their vaccination efforts, *especially lower GDP countries with high population*. The continuation of vaccination programs is crucial as we are yet to attain herd immunity, even though WHO declares end to COVID 19 as global health emergency.
+- Countries with higher GDPs should extend their assistance to those with lower GDPs in advancing their vaccination efforts, * especially lower GDP countries with high population *. The continuation of vaccination programs is crucial as we are yet to attain herd immunity, even though WHO declares end to COVID 19 as global health emergency.
 
 ## Future Improvements:
 
