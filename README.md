@@ -15,7 +15,7 @@
 
 ## Project Description:
 
-The Director-General of the World Health Organization announced on May 4, 2023, that COVID-19 has evolved from a global public health emergency to an ongoing health concern. As a junior data analyst committed to learning, I've chosen to undertake a capstone project which is to create a imformative construct a Power BI dashboard that would facilitate the study and analysis of the most recent COVID-19 trends and vaccination rates. The goal of this endeavor is to investigate if the current data supports this new categorization of the COVID-19 predicament.
+The Director-General of the World Health Organization announced on May 4, 2023, that COVID-19 has evolved from a global public health emergency to an ongoing health concern. As a junior data analyst, I've chosen to undertake a capstone project which is to create an informative Power BI dashboard that would facilitate the study and analysis of the most recent COVID-19 trends and its vaccination rates. The goal of this capstone is to investigate if the current data supports this new categorization of the COVID-19 predicament.
 
 For this capstone project, I utilized the dataset from Our World in Data (OWID) to assemble the dashboard, with a particular focus on vaccination status across various countries and continents. This focus is intended to evaluate whether herd immunity has been accomplished on a global scale. Also, the GDP of each country is incorporated into the analysis to ascertain if a nation's economic status has an impact on its vaccination program.
 
@@ -23,13 +23,15 @@ For this capstone project, I utilized the dataset from Our World in Data (OWID) 
 
 Based on the dashboard analysis:
 
--Globally, almost 70% of the population has been vaccinated (received at least one dose of a COVID-19 vaccine), while 64% are fully vaccinated (received at least one dose of a COVID-19 vaccine). The remains 30% are yet to receive any vaccination. This indeed still far from the 95% vaccination rate needed to achieve herd immunity. 
+- Globally, almost 70% of the population has been vaccinated (received at least one dose of a COVID-19 vaccine), while 64% are fully vaccinated (received at least one dose of a COVID-19 vaccine). The remains 30% are yet to receive any vaccination. This indeed still far from the 95% vaccination rate needed to achieve herd immunity. 
 
--By continent, africa continent has the lowest vaccination rate, standing around 38% of which have received at least one dose. 
+- By continent, africa continent has the lowest vaccination rate, only standing around 38% of which have received at least one dose. 
 
--Countries with a lower GDP continue to lag in vaccination rates when compared to wealthier country or continents. This  does indicates that a higher GDP per capita is associated with greater COVID-19 vaccine distribution.
+- Countries with a lower GDP continue to lag in vaccination rates when compared to wealthier country or continents. This  does indicates that a higher GDP per capita is associated with greater COVID-19 vaccine distribution.
 
--One interesting insight, some country with smaller population size have higher vaccination rate even though with a lower GDP, suggesting that population size does affect vaccine distribution other than country GDP itself.
+- One interesting insight, some country with smaller population size have higher vaccination rate even though with a lower GDP, suggesting that population size might affect the vaccine distribution other than country GDP itself.
+
+- This also suggesting that there are other undisclosed factors at play that could speed up vaccine distribution.
 
 ## Conclusions:
 
