@@ -7,7 +7,7 @@
 ### Page 2: Vaccination Rate Over GDP Scatter Plot Chart
 ![Power BI Vaccination Rate Over GDP](https://github.com/KahFoo/Data_Analyst_Project-3/assets/29060103/ee47eaed-0484-4763-9f57-919ac78bce59)
 
-### Page 3: COVID 19 Vaccination Details Breakdown (Accesses using drill through from page 1 & 2)
+### Page 3: COVID 19 Vaccination Details Breakdown (Drill through from page 1 & 2)
 ![Power BI Vaccination Details Breakdown](https://github.com/KahFoo/Data_Analyst_Project-3/assets/29060103/2ee25eb8-6fec-4a61-bd01-6768c599b722)
 
 ### Links to Dataset:
