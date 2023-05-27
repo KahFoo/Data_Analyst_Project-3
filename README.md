@@ -33,7 +33,7 @@ Based on the dashboard analysis:
 
 ## Conclusions:
 
-- Countries with higher GDPs should extend their assistance to those with lower GDPs in advancing their vaccination efforts, * especially lower GDP countries with high population *. The continuation of vaccination programs is crucial as we are yet to attain herd immunity, even though WHO declares end to COVID 19 as global health emergency.
+- Countries with higher GDPs should extend their assistance to those with lower GDPs in advancing their vaccination efforts, **especially lower GDP countries with high population**. The continuation of vaccination programs is crucial as we are yet to attain herd immunity, even though WHO declares end to COVID 19 as global health emergency.
 
 ## Future Improvements:
 
