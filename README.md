@@ -35,6 +35,7 @@ Based on the dashboard analysis:
 
 ## Conclusions:
 
+- Based on the dashboard, it shows that COVID-19 cases and deaths have reached their peak and are currently showing a downward trend.
 - Countries with higher GDPs should extend their assistance to those with lower GDPs in advancing their vaccination efforts, **especially lower GDP countries with high population**. The continuation of vaccination programs is crucial as we are yet to attain herd immunity, even though WHO declares end to COVID 19 as global health emergency.
 
 ## Future Improvements:
