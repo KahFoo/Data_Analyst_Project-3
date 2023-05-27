@@ -23,7 +23,7 @@ For this capstone project, I utilized the dataset from Our World in Data (OWID) 
 
 Based on the dashboard analysis:
 
-- Globally, almost 70% of the population has been vaccinated (received at least one dose of a COVID-19 vaccine), while 64% are fully vaccinated (received at least one dose of a COVID-19 vaccine). The remains 30% are yet to receive any vaccination. This indeed still far from the 95% vaccination rate needed to achieve herd immunity. 
+- Globally, almost 70% of the population has been vaccinated (received at least one dose of a COVID-19 vaccine), while 64% are fully vaccinated (received at least two dose of a COVID-19 vaccine). The remains 30% are yet to receive any vaccination. This indeed still far from the 95% vaccination rate needed to achieve herd immunity. 
 
 - By continent, africa continent has the lowest vaccination rate, only standing around 38% of which have received at least one dose. 
 
